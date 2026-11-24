@@ -41,3 +41,10 @@ Panduan tambahan untuk mengubah master starter kit menjadi sistem dokumentasi da
 - [Handoff protocol](../handoff/PROTOCOL.md)
 
 - [Design workflow v2.1](DESIGN_WORKFLOW.md)
+
+## v2.2
+- [Start Here](../START_HERE.md)
+- [Beginner Mode](BEGINNER_MODE.md)
+- [Engineering Workflow](ENGINEERING_WORKFLOW.md)
+- [Troubleshooting](TROUBLESHOOTING.md)
+- [Engineering standards](../engineering/README.md)

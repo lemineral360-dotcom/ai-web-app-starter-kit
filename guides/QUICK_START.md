@@ -17,3 +17,5 @@ Discovery → Planning Gate → UX/design → Design Gate → Architecture Gate 
 
 ## Saat memasuki tahap desain
 Ikuti [tutorial desain](DESIGN_WORKFLOW.md). AI membantu mengisi dokumen dan membuat artefak desain sesuai akses tool; pengguna cukup memberi arahan dan review.
+
+New users can start with [START_HERE](../START_HERE.md) and [Beginner Mode](BEGINNER_MODE.md). After design, follow [engineering workflow](ENGINEERING_WORKFLOW.md).

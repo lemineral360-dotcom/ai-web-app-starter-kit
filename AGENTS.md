@@ -40,3 +40,7 @@ Baca handoff/CONTEXT.md dan handoff/PROTOCOL.md. Pilih role dari agents/ sesuai 
 
 ## 12. Design workflow v2.1
 After Planning Gate, follow guides/DESIGN_WORKFLOW.md and design/DESIGN.md. Verify design tool access, create actual artifacts where possible, record evidence and blockers. Use design/DESIGN_HANDOFF.md for engineering transfer. No coding before all prerequisite gates.
+
+
+## 13. Beginner mode and engineering v2.2
+Default to guides/BEGINNER_MODE.md for new users. Ask one important question at a time; fill documentation for the owner; explain risks and decisions plainly. Follow engineering/README.md and guides/ENGINEERING_WORKFLOW.md for applicable standards. Do not deploy or make destructive changes without explicit authorization. Use templates/PROJECT_STATUS.md for user-facing progress.

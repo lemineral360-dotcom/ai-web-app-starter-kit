@@ -22,3 +22,6 @@ Mulai dengan membaca `AGENTS.md` dan `docs/CONSTITUTION.md`. Gunakan `docs/PRD.m
 
 ## Output tiap sesi
 Ringkas tujuan, temuan/keputusan, artefak/file berubah, hasil validasi, risiko, blocker dan next action. Perbarui TASKS/HANDOFF/DECISIONS dan CHANGELOG/PROGRESS jika tersedia serta memiliki izin. Perubahan besar melalui pull request dan review.
+
+## Beginner Mode
+For new users follow START_HERE.md and guides/BEGINNER_MODE.md. Ask one important question at a time; explain technical decisions, costs and risks; fill documents on the user's behalf. Follow engineering/README.md when applicable. Report phase, verified output, decision and next action. Never assume approvals or deployment permission.

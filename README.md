@@ -1,8 +1,12 @@
-# AI Web & App Starter Kit v2.1 — Professional Design & Multi-Agent Development Kit
+# AI Web & App Starter Kit v2.2 — Beginner-Friendly Professional Development Kit
 
 Template documentation-first berbahasa Indonesia untuk web, SaaS, mobile app, dan internal tools. Framework agnostic; bukan aplikasi siap deploy atau orchestrator otomatis.
 
 ## Mulai di sini
+- **[START HERE — untuk pemula](START_HERE.md)**
+- [Beginner Mode](guides/BEGINNER_MODE.md)
+- [Engineering sampai production](guides/ENGINEERING_WORKFLOW.md)
+- [Troubleshooting](guides/TROUBLESHOOTING.md)
 - **[Quick Start: 5 langkah](guides/QUICK_START.md)** — untuk pengguna baru.
 - **[Cara pindah AI / handoff](guides/HANDOFF_GUIDE.md)** — cukup dua prompt.
 - [ChatGPT Project Setup](guides/CHATGPT_PROJECT_SETUP.md)

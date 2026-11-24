@@ -14,3 +14,10 @@ Status PENDING. Catat evidence, owner dan tanggal tiap pemeriksaan.
 - [ ] Owner menyetujui release
 
 Hasil belum diuji tetap NOT RUN.
+
+## v2.2 evidence
+- [ ] Applicable engineering standards reviewed, N/A justified
+- [ ] Privacy, data retention and third-party services reviewed
+- [ ] Visual QA against approved design and accessibility evidence
+- [ ] Recovery drill, monitoring and incident owner verified
+- [ ] Public web SEO or mobile store requirements checked if applicable
