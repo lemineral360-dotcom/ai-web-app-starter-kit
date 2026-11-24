@@ -39,3 +39,5 @@ Panduan tambahan untuk mengubah master starter kit menjadi sistem dokumentasi da
 - [Parallel Workflow](PARALLEL_WORKFLOW.md)
 - [Agent roles](../agents/README.md)
 - [Handoff protocol](../handoff/PROTOCOL.md)
+
+- [Design workflow v2.1](DESIGN_WORKFLOW.md)

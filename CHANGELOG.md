@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.1 — 2026-11-24
+- Added design direction, foundations, layered token examples, component inventory, UX, wireframes, high fidelity, prototype testing and developer handoff.
+- Expanded Design Gate and beginner design guide. Actual design artifacts and tool integration tests are not included.
+
+
 ## v2.0 — 2026-11-24
 - Added multi-agent role cards, platform instructions, handoff protocol and ownership/review templates.
 - Added quick start, handoff and parallel workflow guides.

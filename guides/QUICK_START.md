@@ -14,3 +14,6 @@ Berikan AGENTS.md, PRD, TASKS, HANDOFF, DECISIONS serta file relevan, termasuk b
 
 ## Langkah berikutnya
 Discovery → Planning Gate → UX/design → Design Gate → Architecture Gate → coding → QA → Release Gate. Semua approval milik manusia.
+
+## Saat memasuki tahap desain
+Ikuti [tutorial desain](DESIGN_WORKFLOW.md). AI membantu mengisi dokumen dan membuat artefak desain sesuai akses tool; pengguna cukup memberi arahan dan review.

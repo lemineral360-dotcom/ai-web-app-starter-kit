@@ -1,4 +1,4 @@
-# AI Web & App Starter Kit v2.0 — Multi-Agent Development Kit
+# AI Web & App Starter Kit v2.1 — Professional Design & Multi-Agent Development Kit
 
 Template documentation-first berbahasa Indonesia untuk web, SaaS, mobile app, dan internal tools. Framework agnostic; bukan aplikasi siap deploy atau orchestrator otomatis.
 
@@ -9,6 +9,8 @@ Template documentation-first berbahasa Indonesia untuk web, SaaS, mobile app, da
 - [Project Instructions](templates/CHATGPT_PROJECT_INSTRUCTIONS.md)
 - [Discovery Prompt](templates/DISCOVERY_PROMPT.md)
 - [Prompt library](prompts/README.md)
+
+- [Tutorial Design System hingga Prototype](guides/DESIGN_WORKFLOW.md)
 
 ## Workflow
 Discovery → Planning Gate → Design → Design Gate → Architecture Gate → Development → QA → Release Gate.

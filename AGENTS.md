@@ -36,3 +36,7 @@ Jika instruksi bertentangan, hentikan perubahan berisiko dan minta keputusan pem
 
 ## 11. Multi-agent v2
 Baca handoff/CONTEXT.md dan handoff/PROTOCOL.md. Pilih role dari agents/ sesuai task. Default serial; parallel hanya dengan task ownership, branch terpisah, reviewer dan integrator sebagaimana guides/PARALLEL_WORKFLOW.md. Planning, Design dan Architecture Gate wajib APPROVED sebelum kode aplikasi. Release Gate wajib sebelum production. Jangan menganggap reviewer atau orchestrator berwenang menyetujui gate.
+
+
+## 12. Design workflow v2.1
+After Planning Gate, follow guides/DESIGN_WORKFLOW.md and design/DESIGN.md. Verify design tool access, create actual artifacts where possible, record evidence and blockers. Use design/DESIGN_HANDOFF.md for engineering transfer. No coding before all prerequisite gates.

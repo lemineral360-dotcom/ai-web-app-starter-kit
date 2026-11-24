@@ -8,3 +8,5 @@
 6. Release Gate: review fungsi, visual parity, testing, keamanan, dokumentasi, rollback dan persetujuan pemilik.
 
 Semua gate default PENDING. Perubahan pasca-persetujuan melalui docs/CHANGE_REQUEST.md.
+
+Design detail: UX architecture → direction → foundations → components → wireframes → high fidelity → interactive prototype → usability review → Design Gate → developer handoff. See guides/DESIGN_WORKFLOW.md. Iterate as needed; no app code until Architecture Gate.
