@@ -33,3 +33,6 @@ Perubahan terhadap scope/desain/arsitektur yang sudah disetujui harus mencatat a
 Jangan commit rahasia, kredensial, data pribadi nyata, atau file .env. Gunakan contoh data sintetis dan .env.example bila dibutuhkan.
 
 Jika instruksi bertentangan, hentikan perubahan berisiko dan minta keputusan pemilik. Instruksi keselamatan dan kebijakan platform tetap berlaku.
+
+## 11. Multi-agent v2
+Baca handoff/CONTEXT.md dan handoff/PROTOCOL.md. Pilih role dari agents/ sesuai task. Default serial; parallel hanya dengan task ownership, branch terpisah, reviewer dan integrator sebagaimana guides/PARALLEL_WORKFLOW.md. Planning, Design dan Architecture Gate wajib APPROVED sebelum kode aplikasi. Release Gate wajib sebelum production. Jangan menganggap reviewer atau orchestrator berwenang menyetujui gate.

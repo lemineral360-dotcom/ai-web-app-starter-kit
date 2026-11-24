@@ -31,3 +31,11 @@ Panduan tambahan untuk mengubah master starter kit menjadi sistem dokumentasi da
 - Template yang sudah ada tetap berlaku: [AGENTS](../AGENTS.md), [PRD](../docs/PRD.md), [Design System](../design/DESIGN_SYSTEM.md), [Architecture](../docs/ARCHITECTURE.md), [Workflow](../docs/WORKFLOW.md).
 - Jangan menandai approval secara otomatis. Status master template bukan approval proyek baru.
 - Template ini bukan aplikasi, bukan janji siap production, dan tidak mewajibkan stack tertentu.
+
+
+## Multi-Agent v2
+- [Quick Start](QUICK_START.md)
+- [Handoff Guide](HANDOFF_GUIDE.md)
+- [Parallel Workflow](PARALLEL_WORKFLOW.md)
+- [Agent roles](../agents/README.md)
+- [Handoff protocol](../handoff/PROTOCOL.md)
