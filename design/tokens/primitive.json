@@ -1,0 +1,25 @@
+{
+  "color": {
+    "blue": {
+      "$type": "color",
+      "$value": "#2563EB"
+    },
+    "white": {
+      "$type": "color",
+      "$value": "#FFFFFF"
+    },
+    "ink": {
+      "$type": "color",
+      "$value": "#111827"
+    }
+  },
+  "spacing": {
+    "base": {
+      "$type": "dimension",
+      "$value": {
+        "value": 4,
+        "unit": "px"
+      }
+    }
+  }
+}

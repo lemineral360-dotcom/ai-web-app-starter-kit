@@ -1,0 +1,16 @@
+{
+  "color": {
+    "action": {
+      "$type": "color",
+      "$value": "{color.blue}"
+    },
+    "surface": {
+      "$type": "color",
+      "$value": "{color.white}"
+    },
+    "text": {
+      "$type": "color",
+      "$value": "{color.ink}"
+    }
+  }
+}

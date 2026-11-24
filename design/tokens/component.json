@@ -1,0 +1,12 @@
+{
+  "button": {
+    "background": {
+      "$type": "color",
+      "$value": "{color.action}"
+    },
+    "padding": {
+      "$type": "dimension",
+      "$value": "{spacing.base}"
+    }
+  }
+}
