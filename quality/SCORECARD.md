@@ -1,0 +1,2 @@
+# Review scorecard
+Rate each applicable dimension 0–5 with evidence: visual 15, UX 15, consistency 10, functionality 15, code 10, accessibility 10, security 10, performance 5, tests 5, documentation 5. Weighted score = 100 × sum(weight × rating/5)/sum(applicable weights). N/A requires rationale; unknown is NOT RUN, not N/A, and prevents final score. 85+ may be reviewed for approval; below 85 revise. Critical findings override score. Owner alone approves gates.

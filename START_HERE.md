@@ -28,3 +28,6 @@ Katakan "Siapkan handoff". Pastikan perubahan tersimpan, lalu kirim prompt resum
 
 ## Jika bingung
 Minta AI menjelaskan satu keputusan dengan contoh, pilihan rekomendasi, biaya/risiko, dan akibat jika ditunda. Jangan kirim password, API key atau data pribadi nyata.
+
+## v3
+Tidak perlu menjalankan orchestrator. Gunakan percakapan seperti biasa. AI mengikuti quality/ANTI_AI_SLOP.md; minta audit kualitas sebelum menyetujui hasil. Mode otomatis lokal opsional untuk pengguna teknis.

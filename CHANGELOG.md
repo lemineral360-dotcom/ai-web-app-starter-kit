@@ -1,5 +1,10 @@
 # Changelog
 
+## v3.0 initial
+- Added anti-slop review, evidence scorecard and optional local sequential dispatcher.
+- Full repository audit, beginner user testing, real provider integrations and runtime verification remain pending.
+
+
 ## v2.2 — 2026-11-24
 - Added START_HERE, beginner mode, troubleshooting, engineering workflow and project status template.
 - Added 18 engineering standards spanning implementation, security, QA, performance, SEO, CI/CD, deployment, recovery and maintenance.

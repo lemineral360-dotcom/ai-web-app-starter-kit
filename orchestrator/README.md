@@ -1,0 +1,5 @@
+# Optional local orchestration — v3
+This is a runnable task dispatcher, not a hosted autonomous AI service. Beginner mode still works without Python or API keys. Requires Python 3.10+. Configure a local agent CLI command in a JSON file (argument array, no shell); each command must accept a prompt on stdin and output text. The adapter is provider-neutral; actual CLI compatibility must be tested by the user. Run from project root:
+`python orchestrator/run.py orchestrator/example.json` (dry run)
+`python orchestrator/run.py your-config.json --execute` (explicit execution)
+Runs sequentially, stops on failure, writes local logs. Each agent receives prior output as untrusted context. No automatic commits, merges, approvals or deployments are performed by the dispatcher. External CLI permissions must be restricted separately; prompt rules are not a sandbox. Use a disposable worktree, least privilege and no production credentials. Never run untrusted configuration. Review logs for sensitive content before sharing. No provider API integration is bundled.

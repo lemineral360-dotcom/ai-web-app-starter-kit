@@ -1,0 +1,2 @@
+# Quality control v3
+Apply at every task and existing approval gate, not a new bureaucratic gate. Review actual artifacts, not document count. Critical security, broken core journeys, missing approval and false evidence block release regardless of score. Use independent reviewer where available; same-session self-review is not independent. Record findings, fixes and retest in existing HANDOFF/TASKS.

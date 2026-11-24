@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": "review",
+      "role": "REVIEWER",
+      "prompt": "Read AGENTS.md and review current documentation; do not modify files.",
+      "command": [
+        "python",
+        "-c",
+        "import sys; print('Demo only: received prompt of',len(sys.stdin.read()),'characters')"
+      ]
+    }
+  ]
+}

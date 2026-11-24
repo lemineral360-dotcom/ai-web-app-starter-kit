@@ -1,8 +1,11 @@
-# AI Web & App Starter Kit v2.2 — Beginner-Friendly Professional Development Kit
+# AI Web & App Starter Kit v3.0 — Intelligent Multi-Agent Development System (initial)
 
 Template documentation-first berbahasa Indonesia untuk web, SaaS, mobile app, dan internal tools. Framework agnostic; bukan aplikasi siap deploy atau orchestrator otomatis.
 
 ## Mulai di sini
+- [Panduan v3](guides/V3_USAGE.md)
+- [Anti AI Slop dan quality control](quality/README.md)
+- [Optional local dispatcher](orchestrator/README.md)
 - **[START HERE — untuk pemula](START_HERE.md)**
 - [Beginner Mode](guides/BEGINNER_MODE.md)
 - [Engineering sampai production](guides/ENGINEERING_WORKFLOW.md)

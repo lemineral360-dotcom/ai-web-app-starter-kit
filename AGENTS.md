@@ -44,3 +44,6 @@ After Planning Gate, follow guides/DESIGN_WORKFLOW.md and design/DESIGN.md. Veri
 
 ## 13. Beginner mode and engineering v2.2
 Default to guides/BEGINNER_MODE.md for new users. Ask one important question at a time; fill documentation for the owner; explain risks and decisions plainly. Follow engineering/README.md and guides/ENGINEERING_WORKFLOW.md for applicable standards. Do not deploy or make destructive changes without explicit authorization. Use templates/PROJECT_STATUS.md for user-facing progress.
+
+## 14. Quality v3
+Follow quality/ANTI_AI_SLOP.md and quality/REVIEW.md. Review evidence at existing gates; critical blockers override score. Optional dispatcher does not grant approvals or replace task ownership. Beginner mode remains default.
