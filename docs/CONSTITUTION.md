@@ -1,7 +1,7 @@
 # Project Constitution v1.0
 
 ## Prinsip inti
-1. **Design First:** coding aplikasi hanya setelah Design Gate disetujui secara eksplisit.
+1. **Design First:** coding aplikasi hanya setelah Planning, Design dan Architecture Gate disetujui secara eksplisit.
 2. **Consistency:** implementasi mengikuti spesifikasi, design tokens, dan komponen yang disetujui.
 3. **Security First:** least privilege, validasi input, pengelolaan rahasia yang aman, dan privasi sejak planning.
 4. **Quality First:** setiap fitur memiliki acceptance criteria dan verifikasi yang dapat dilacak.

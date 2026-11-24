@@ -1,6 +1,6 @@
 # Handoff — initial project state
 
-Template v2.0 mendukung handoff serial dan parallel terkoordinasi. Ini adalah status awal proyek turunan, bukan approval atau status aplikasi.
+Template v3.0 mendukung handoff serial dan parallel terkoordinasi. Ini adalah status awal proyek turunan, bukan approval atau status aplikasi.
 
 - Project: [isi nama repo proyek]
 - Phase: Discovery
